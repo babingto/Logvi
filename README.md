@@ -1,4 +1,4 @@
 Logvi
 =====
 
-Log view
+Log viewer
